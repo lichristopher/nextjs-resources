@@ -8,3 +8,4 @@
 - [Programmatic URLs in Next.js Static Site Generation](https://www.youtube.com/watch?v=fnQm5wvNf6A)
 - [Build a React Portfolio Website With Tailwind Tutorial](https://www.youtube.com/watch?v=k-Pi5ZMxHWY)
 - [Next.js 13 Crash Course | Learn How To Build Full Stack Apps!](https://www.youtube.com/watch?v=T63nY70eZF0)
+- [Next.js 13 - Layouts and Pages Explained in 20 mins or so](https://www.youtube.com/watch?v=zbYBgy_ChGY)
