@@ -10,3 +10,4 @@
 - [Next.js 13 Crash Course | Learn How To Build Full Stack Apps!](https://www.youtube.com/watch?v=T63nY70eZF0)
 - [Next.js 13 - Layouts and Pages Explained in 20 mins or so](https://www.youtube.com/watch?v=zbYBgy_ChGY)
 - [Next JS 13 by Net Ninja](https://www.youtube.com/watch?v=TJQbDPGzm0Y&list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT)
+- [Next 14 by Coding Addict](https://www.youtube.com/watch?v=d_oPnD8A-lI&pp=ygUWY29kZGljdCBhZGRpY3QgbmV4dCBqcw%3D%3D)
