@@ -1,6 +1,6 @@
 # nextjs-resources
 
-## Videos
+## Youtube Videos
 
 - [NextJS Tutorial - All 12 Concepts You Need to Know](https://www.youtube.com/watch?v=vwSlYG7hFk0)
 - [Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
