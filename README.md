@@ -16,3 +16,4 @@
 
 - [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
 - [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide)
+- [Next JS: The Complete Developer's Guide](udemy.com/course/next-js-the-complete-developers-guide/)
