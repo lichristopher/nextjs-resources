@@ -19,3 +19,4 @@
 - [Next JS: The Complete Developer's Guide](https://www.udemy.com/course/next-js-the-complete-developers-guide/)
 - [Next.js From Scratch 2024](https://www.udemy.com/course/nextjs-from-scratch/)
 - [NextJS & OpenAI - 2024 Edition](https://www.udemy.com/course/nextjs-open-ai/)
+- [Next.js by Example](https://www.udemy.com/course/nextjs-by-example/)
