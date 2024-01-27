@@ -12,6 +12,10 @@
 - [Next JS 13 by Net Ninja](https://www.youtube.com/watch?v=TJQbDPGzm0Y&list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT)
 - [Next 14 by Coding Addict](https://www.youtube.com/watch?v=d_oPnD8A-lI&pp=ygUWY29kZGljdCBhZGRpY3QgbmV4dCBqcw%3D%3D)
 
+## Next JS Caching
+
+- [What Next.js doesn't tell you about caching](https://www.youtube.com/watch?v=7BgzXp35ZuU)
+
 ## React/Next Courses
 
 - [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
