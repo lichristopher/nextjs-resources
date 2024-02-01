@@ -16,6 +16,10 @@
 
 - [What Next.js doesn't tell you about caching](https://www.youtube.com/watch?v=7BgzXp35ZuU)
 
+## Next JS Forms
+
+- [Using Forms in Next.js (Server Actions, Revalidating Data)](https://www.youtube.com/watch?v=dDpZfOQBMaU)
+
 ## React/Next Courses
 
 - [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
