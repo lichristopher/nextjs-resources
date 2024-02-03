@@ -1,4 +1,4 @@
-# Next js code snippers
+# Next js code snippets
 
 ```jsx
 export function function AddPostForm() {
