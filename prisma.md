@@ -1,10 +1,12 @@
 # Set-up prisma with nextjs
 
 ```bash
+DATABASE_URL="file:./db.sqlite"
 npm install prisma --save-dev
 npm install @prisma/client@latest
 npx prisma init
 npx prisma init --datasource-provider sqlite
+npx prisma migrate
 ```
 
 ```prisma
