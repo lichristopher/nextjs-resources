@@ -1,5 +1,11 @@
 # Set-up prisma with nextjs
 
+## Use prisma studio
+
+```bash
+npx prisma studio
+```
+
 ```bash
 DATABASE_URL="file:./db.sqlite"
 DATABASE_URL="file:./dev.db"
