@@ -13,3 +13,26 @@ export function function AddPostForm() {
   };
 }
 ```
+
+## programatically changing search parameters
+
+```jsx
+"use client"
+import {useRouter, useSearchParams} from "next/navigation";
+
+export function Form() {
+  const searchPrams = useSearchParams();
+  const router = useRouter();
+
+  return (
+    <form>
+      <input value={searchParams.get("q") || ""} onChange={(e) => {
+        const params = new URLSearchParams(searchParams);
+        params.set("q", e.target.value);
+        router.push(`?${params.toString()}`);
+      }}>
+
+    </form>
+  )
+}
+```
